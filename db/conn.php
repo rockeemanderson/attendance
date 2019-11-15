@@ -1,13 +1,9 @@
 <?php
-    
-
     $host='remotemysql.com';
     $db = 'attendance_db';
     $user = 'LameCF7Tti';
     $pass = 'FySlLIPA47';
     $charset = 'utf8mb4';
-    
-    
     
     
     //$host='127.0.0.1';
