@@ -1,9 +1,20 @@
 <?php
-    $host='127.0.0.1';
+    
+
+    $host='remotemysql.com';
     $db = 'attendance_db';
-    $user = 'root';
-    $pass = '';
+    $user = 'LameCF7Tti';
+    $pass = 'FySlLIPA47';
     $charset = 'utf8mb4';
+    
+    
+    
+    
+    //$host='127.0.0.1';
+    //$db = 'attendance_db';
+   // $user = 'root';
+    //$pass = '';
+    //$charset = 'utf8mb4';
 
     $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
 
